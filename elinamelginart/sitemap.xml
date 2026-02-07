@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Suomi -->
+  <url><loc>https://www.elinamelginart.com/index.html</loc></url>
+  <url><loc>https://www.elinamelginart.com/works-style.html</loc></url>
+  <url><loc>https://www.elinamelginart.com/cv-style.html</loc></url>
+  <url><loc>https://www.elinamelginart.com/contact-style.html</loc></url>
+
+  <!-- Englanti -->
+  <url><loc>https://www.elinamelginart.com/indexEN.html</loc></url>
+  <url><loc>https://www.elinamelginart.com/works-styleEN.html</loc></url>
+  <url><loc>https://www.elinamelginart.com/cv-styleEN.html</loc></url>
+  <url><loc>https://www.elinamelginart.com/contact-styleEN.html</loc></url>
+
+</urlset>
